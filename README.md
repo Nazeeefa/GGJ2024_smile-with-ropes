@@ -4,7 +4,7 @@ A game that involves the use of ropes to pull a face to make it smile. The game 
 ```
 ├── /menu/
 │   ├── file1.png
-│   ├── fastq_850.png
+│   ├── file2.png
 │   ├── 
 │   ├── 
 │   └── /menu/assets
