@@ -8,11 +8,11 @@ A game that involves the use of ropes to pull a face to make it smile. The game 
 │   ├── 
 │   ├── 
 │   └── /menu/assets
-│       ├── /assets/gameplay
+│       ├── /assets/Characters
 │       │   ├── 1.png
 │       │   ├── 2.png
 │       │   └── 3.png
-│       └── /assets/folder_name
+│       └── /assets/gameplay
 │           ├── 1.png
 │           ├── 2.png
 └──         └── 3.png
